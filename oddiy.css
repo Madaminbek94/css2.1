@@ -1,0 +1,33 @@
+.box{
+    margin: 10px 0 20px 670px;
+    width: 200px;
+    height: 200px;
+    background-image: url(foo/1.jpg);
+    background-size: cover;
+    border-radius: 50%;
+}
+.ok{
+    margin-left: 10px;
+}
+.bir{
+    background-color: red;
+    color: white;
+    width: 800px;
+    text-align: center;
+    margin: 0 0 15px 350px;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+video{
+    margin-left: 470px;
+}
+h2{
+    text-align: center;
+}
+h2{
+    color: red;
+}
+.ok{
+    text-align: center;
+    color: red;
+}
